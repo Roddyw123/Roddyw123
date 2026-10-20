@@ -9,7 +9,7 @@ I’m a BEng Computing student at **Imperial College London**, graduating in 202
 - AI and ML infrastructure, AI Safety
 
 ### Tools & languages
-I work primarily with Python, C++ and Java.
+I work primarily with Python and C++.
 
 Currently deepening my knowledge of modern C++ and CUDA.
 
