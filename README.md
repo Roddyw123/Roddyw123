@@ -7,7 +7,7 @@ I have a pretty general skillset, currently trying to deepen my knowledge of low
 
 - Proficient with Python
 - Familiar with C++, C, Rust, GoLang
-- Knowledgable in Operating Systems, Concurrency, Networking, DSA, Computer Architecture
+- Knowledgable in Operating Systems, Concurrency, Networking, DSA, Computer Architecture, AI/ML
 
 I am currently trying to improve my Python implementation skills, and making myself proficient with C++.
 
