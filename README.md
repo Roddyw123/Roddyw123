@@ -6,7 +6,7 @@ I’m a BEng Computing student at **Imperial College London**, graduating in 202
 I have a pretty general skillset, currently trying to deepen my knowledge of low-level systems.
 
 - Proficient with Python
-- Familiar with C++, C, Rust, GoLang
+- Familiar with C++, C, Rust
 - Knowledgable in Operating Systems, Concurrency, Networking, DSA, Computer Architecture, AI/ML
 
 I am currently trying to improve my Python implementation skills, and making myself proficient with C++.
